@@ -57,10 +57,16 @@ class Text(object):
 𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
 """
     SPELLING_TEXT = """
-𝖧𝖾𝗅𝗅𝗈 {},
-𝖢𝗈𝗎𝗅𝖽𝗇'𝗍 𝖥𝗂𝗇𝖽 {} ? 𝖯𝗅𝖾𝖺𝗌𝖾 𝖢𝗅𝗂𝖼𝗄 𝖸𝗈𝗎𝗋 𝖱𝖾𝗊𝗎𝖾𝗌𝗍 𝖬𝗈𝗏𝗂𝖾 𝖭𝖺𝗆𝖾
+👋Hey {}
 
-{} മൂവി കിട്ടിയില്ല അല്ലെ ? നിങ്ങൾ ടൈപ്പ് ചെയ്ത സ്പ്ലിങ് നോക്കു..!!
+Sorry, No Movie/Series Related to the Given Word Was Found 🥺
+
+Please Go to Google and Confirm the Correct Spelling 🙏
+
+Click Here To 👉 🔍 Search 🔎 
+
+✍Or Your Spelling Is Correct Report To Admins For Add Requested File :- @admins
+
 """
     AUTO_FILTER_1_TEXH = """
 𝖧𝖾𝗅𝗉: <b><u>𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋
